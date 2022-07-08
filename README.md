@@ -1,2 +1,2 @@
 # Car_Price_Prediction_Project
-FlipRobo Internship Project
+FlipRobo Technologies Internship Project
